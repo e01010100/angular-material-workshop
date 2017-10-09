@@ -11,8 +11,6 @@ Use two (2) `<mat-card>` components to display the **selectedUser** information.
 *  Use the `*ngIf` template directive to remove the requirement for 'safe navigation' operators in the html template.
 *  Use **ngModel** two-way, data-binding for the `<mat-slide-toggle>` features.
 
-> Note that we use `fxFlex="80"` so the 1st card fills 80% of the horizontal space.
-
 ##### File:  `src/app/app.component.html`
 
 ```html
@@ -29,6 +27,8 @@ Use two (2) `<mat-card>` components to display the **selectedUser** information.
   </mat-card>
 </div>
 ```
+
+> Note that we use `fxFlex="80"` so the 1st card fills 80% of the horizontal space.
 
 
 ### Step #7.2: Add Module Imports
