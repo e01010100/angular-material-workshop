@@ -52,7 +52,7 @@ Use the `MatDialogRef` token to close and deliver data back to the origin compon
 For components that are opened through the `MatDialog` service, the `MatDialogRef` can be injected
 using Dependency Injection. 
 
-##### File:  `src/app/dialog/dialog.component.ts`
+##### File:  `src/app/admin/user.dialog.component.ts`
 
 ```js
 import {Component} from '@angular/core';
