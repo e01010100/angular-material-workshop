@@ -24,13 +24,13 @@ back to the `AppComponent` and added to the array of `users`.
         <mat-option *ngFor="let avatar of avatars; let i = index;" [value]="avatar">Avatar - {{i + 1}}</mat-option>
       </mat-select>
     </div>
-    <mat-input-container>
+    <mat-form-field>
       <input matInput ngModel name="name" placeholder="Full name" required>
-    </mat-input-container>
+    </mat-form-fieldr>
 
-    <mat-input-container>
+    <mat-form-field>
       <textarea matInput ngModel name="details" placeholder="Details" rows="15" cols="60" required></textarea>
-    </mat-input-container>
+    </mat-form-field>
 
     <div fxLayout="row" fxLayoutGap="24px">
       <mat-checkbox ngModel name="isAdmin">Is Admin?</mat-checkbox>
