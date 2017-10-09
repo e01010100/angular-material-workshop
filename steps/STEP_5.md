@@ -143,6 +143,7 @@ nested components, and it applies to both the view children and content children
 *  [Customizing Material Component Styles](https://material.angular.io/guide/customizing-component-styles)
 *  [Deep Operators](https://angular.io/guide/component-styles#deprecated-deep--and-ng-deep)
 *  [View Encapsulation](https://angular.io/guide/component-styles#view-encapsulation)
+*  [Using CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
 
 #### 2.  List Items
 
