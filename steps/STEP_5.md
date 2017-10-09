@@ -139,7 +139,10 @@ Use the /deep/ shadow-piercing descendant combinator to force a style down throu
 component tree into all the child component views. The /deep/ combinator works to any depth of 
 nested components, and it applies to both the view children and content children of the component.
 
-[more...](https://angular.io/guide/component-styles#deprecated-deep--and-ng-deep)
+*  [Material Icons](https://material.io/icons/)
+*  [Customizing Material Component Styles](https://material.angular.io/guide/customizing-component-styles)
+*  [Deep Operators](https://angular.io/guide/component-styles#deprecated-deep--and-ng-deep)
+*  [View Encapsulation](https://angular.io/guide/component-styles#view-encapsulation)
 
 #### 2.  List Items
 
