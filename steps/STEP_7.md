@@ -2,6 +2,8 @@
 
 Here we will use `mat-card` and `mat-slide-toggle` components from Angular Material.
 
+![image](https://cloud.githubusercontent.com/assets/6004537/24765552/7d32dbf2-1ab5-11e7-886d-3eee6fa84ba6.png)
+
 ### Step #7.1 Task:
 
 Use two (2) `<mat-card>` components to display the **selectedUser** information. 
@@ -28,9 +30,6 @@ Use two (2) `<mat-card>` components to display the **selectedUser** information.
 </div>
 ```
 
-> Note the use of responsive API `fxLayout.sm="column"` in the content area
-
-![image](https://cloud.githubusercontent.com/assets/6004537/24765552/7d32dbf2-1ab5-11e7-886d-3eee6fa84ba6.png)
 
 ### Step #7.2: Add Module Imports
 
