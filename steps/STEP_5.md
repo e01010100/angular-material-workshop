@@ -1,4 +1,4 @@
-## User MatIconRegistry Service
+## Icons + IconRegistry Service
 
 
 Use MatIcon components + a customm SVG Sheet [`avatars.svg`] to show each user's Avatar.
